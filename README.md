@@ -1,58 +1,60 @@
-## Hi, I’m Yash 👋
+## Hi, I’m Yash
 
-I’m a BCA (Data Science & AI) student focused on building
-**backend, full-stack, and LLM-based systems** that are practical,
-reliable, and production-oriented.
+I’m a BCA (Data Science & AI) student who enjoys building
+backend and full-stack systems, and experimenting with how
+LLMs can be used in real products.
 
-I’m especially interested in how AI is used inside real products —
-where backend engineering, system design, cost awareness, and reliability
-matter more than demos or UI polish.
-
----
-
-### 🔧 What I’m working on
-- Backend and full-stack applications with clean REST APIs
-- LLM-based systems used for decisions, not just chat
-- Cost, reliability, and explainability in AI systems
-- Dockerized services and Linux-based development
+Most of my work is around APIs, backend logic, and systems
+that need to be reliable and easy to reason about.
+I prefer building practical things over demos.
 
 ---
 
-### 📌 Selected Projects
+### What I’m currently working on
+- Backend and full-stack applications using REST APIs
+- LLM-based systems where outputs need to be explainable
+- Learning how cost and performance affect real systems
+- Running services locally using Docker and Linux
+
+---
+
+### Projects
 - **LLM Decision Engine with Explainability**  
-  Backend system where an LLM makes decisions (approve / review / block)
-  and generates explanations for audit and reliability use cases.
+  A backend service where an LLM makes simple decisions
+  (approve / review / block) and explains the reasoning.
+  Built to understand how AI decisions can be audited.
 
 - **Cost-Aware LLM Inference Platform**  
-  API service that serves LLM responses while tracking latency,
-  token usage, and cost-aware request handling.
+  An API for serving LLM responses while tracking latency
+  and basic usage metrics to understand cost trade-offs.
 
-- **Payment & Risk Simulation Platform (Full Stack)**  
-  End-to-end system that simulates payment processing with
-  rule-based risk checks and an admin dashboard.
-
----
-
-### 🧠 Tech Stack
-**Backend & Full Stack**  
-Python · FastAPI · Node.js · JavaScript  
-SQL (PostgreSQL / MySQL) · REST APIs  
-
-**Frontend**  
-React · HTML · CSS  
-
-**AI & LLMs**  
-LLM inference · Hugging Face Transformers  
-
-**Infrastructure & Tools**  
-Docker · Linux · Git · GitHub
+- **Tutor Platform (Web + Backend)**  
+  A full-stack web application where tutors can manage
+  courses, upload recorded content, host live sessions,
+  and interact with students through quizzes and polls.
+  Focused on backend APIs, data flow, and scalability.
 
 ---
 
-### 🎯 What I care about
-- Building systems that actually ship
-- Clean backend design and readable code
-- Using AI responsibly in real-world products
-- Learning by building and improving continuously
+### Tech I use
+**Backend / Full Stack**  
+Python, FastAPI, Node.js, JavaScript  
+SQL (PostgreSQL / MySQL), REST APIs  
 
-I’m actively developing these projects and adding depth over time.
+**Frontend (Web)**  
+React, HTML, CSS  
+
+**AI / LLM**  
+LLM inference, Hugging Face Transformers  
+
+**Tools**  
+Docker, Linux, Git, GitHub
+
+---
+
+### What I focus on
+- Writing readable backend code
+- Understanding system behavior, not just features
+- Learning by building and improving projects over time
+
+I’m actively working on these projects and refining them.
